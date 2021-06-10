@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
 Hola mundoooo
+=======
+proxima clase jueves 20hs Arg. cuantas hs de diferencia hay con Colombia?
+
+>>>>>>> 865293c854ee2ae722452e6367201982cee64615
